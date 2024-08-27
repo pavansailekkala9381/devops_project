@@ -7,5 +7,9 @@ public class FirstProject {
 		System.out.println("Welcome to Devops Lab");
 
 	}
+	
 
+}
+public class Secondpro{
+	System.out.println("modified project");
 }
